@@ -1,0 +1,258 @@
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">	<title>墨宇官网</title>
+
+	<script src="js/wc-3.0.6.min.js"></script>
+
+ <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.css">
+
+ <script src="https://unpkg.com/swiper@8/swiper-bundle.js"> </script>
+
+ <style>
+
+ body{
+
+   background-color:green;
+
+   
+
+   
+
+   }
+
+ h5{
+
+   text-align:center;
+
+   background-color:red;
+
+ 
+
+   }
+
+ 
+
+ h5{
+
+   
+
+   text-align:center;
+
+   background-color:blue;
+
+ 
+
+ 
+
+   }
+
+ 
+
+ .bb{
+
+   
+
+   text-align:center;
+
+   
+
+   background-color:yellow;
+
+   border-radius:10px;
+
+   }
+
+ .bt{
+
+   
+
+   text-align:center;
+
+   font-size:;
+
+   }
+
+ .xiao{
+
+   text-align:center;
+
+   
+
+   }
+
+   
+
+ .po{
+
+   
+
+   text-align:center;
+
+   }
+
+ .swiper{
+
+   
+
+   width:100%;
+
+   }
+
+ img{
+
+   
+
+   width:100%;
+
+   }
+
+ </style>
+
+ 
+
+ 
+
+  
+
+  </head>
+
+  
+
+  
+
+  <body>	
+
+ <h5>墨宇官网</h5>
+
+	<h5>墨宇欢迎您</h5>  
+
+	<div class="swiper">
+
+    <div class="swiper-wrapper">
+
+        <div class="swiper-slide"><img src="https://pb.nichi.co/ginger-gain-invite"/></div>
+
+        <div class="swiper-slide"><img src="https://pb.nichi.co/mad-sugar-lion"/></div>
+
+        <div class="swiper-slide"><img src="https://pb.nichi.co/venture-spider-acid"/></div>
+
+    </div>
+
+    <!-- 如果需要分页器 -->
+
+    <div class="swiper-pagination"></div>
+
+    
+
+    <!-- 如果需要导航按钮 -->
+
+    <div class="swiper-button-prev"></div>
+
+    <div class="swiper-button-next"></div>
+
+   
+
+</div>
+
+ 
+
+ 
+
+ 
+
+ 
+
+</div>
+
+<div class="bt">
+
+<h5 >墨宇官网</h5>
+
+</div>
+
+<div>
+
+<div class="po"
+
+<p>墨宇官网由墨宇创建<br/>墨宇官网是以动漫创作为主的</p>
+
+</div>
+
+<h5>联系墨宇:2872207641<br/>交流Q群:892219239</h5>
+
+<a href="https://wwp.lanzoup.com/iNWFJ132ezvc">点击下载软件版</a>
+
+	<script>
+
+  
+
+      wc.alertDialog({
+
+        title: '提示',
+
+        content: '欢迎墨宇官网，感谢您的使用！',
+
+        ok: '确定',
+
+      
+
+      })
+
+    
+
+    
+
+   
+
+           
+
+  var mySwiper = new Swiper ('.swiper', {
+
+   
+
+    loop: true, // 循环模式选项
+
+    
+
+    // 如果需要分页器
+
+    pagination: {
+
+      el: '.swiper-pagination',
+
+    },
+
+    
+
+    // 如果需要前进后退按钮
+
+    navigation: {
+
+      nextEl: '.swiper-button-next',
+
+      prevEl: '.swiper-button-prev',
+
+    },
+
+    
+
+  
+
+  })        
+
+ 
+
+    
+
+ 
+
+ </script>
+
+  </body>
+
+</html>
